@@ -1,0 +1,1 @@
+This directory serves as a placeholder for all docker appdata.
